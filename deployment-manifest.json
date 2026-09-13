@@ -1,0 +1,506 @@
+[
+  {
+    "path": "assets/portraits/aier.jpg",
+    "bytes": 349838
+  },
+  {
+    "path": "assets/portraits/alicia.jpg",
+    "bytes": 302522
+  },
+  {
+    "path": "assets/portraits/aliya.jpg",
+    "bytes": 454064
+  },
+  {
+    "path": "assets/portraits/argente.jpg",
+    "bytes": 377192
+  },
+  {
+    "path": "assets/portraits/baize-qingyuan.jpg",
+    "bytes": 366371
+  },
+  {
+    "path": "assets/portraits/biyoutong.jpg",
+    "bytes": 395253
+  },
+  {
+    "path": "assets/portraits/chilian.jpg",
+    "bytes": 377062
+  },
+  {
+    "path": "assets/portraits/cihuatel.png",
+    "bytes": 2491285
+  },
+  {
+    "path": "assets/portraits/dead-soul-taker.jpg",
+    "bytes": 353879
+  },
+  {
+    "path": "assets/portraits/dorothy.jpg",
+    "bytes": 408199
+  },
+  {
+    "path": "assets/portraits/ebia.jpg",
+    "bytes": 348185
+  },
+  {
+    "path": "assets/portraits/feili.jpg",
+    "bytes": 397583
+  },
+  {
+    "path": "assets/portraits/feilin-dragon.jpg",
+    "bytes": 393946
+  },
+  {
+    "path": "assets/portraits/hetanake.jpg",
+    "bytes": 359285
+  },
+  {
+    "path": "assets/portraits/hiyori.jpg",
+    "bytes": 355124
+  },
+  {
+    "path": "assets/portraits/imera.jpg",
+    "bytes": 416529
+  },
+  {
+    "path": "assets/portraits/kim-jieun.jpg",
+    "bytes": 373784
+  },
+  {
+    "path": "assets/portraits/lia.jpg",
+    "bytes": 346921
+  },
+  {
+    "path": "assets/portraits/liuge.jpg",
+    "bytes": 388261
+  },
+  {
+    "path": "assets/portraits/liwitz.jpg",
+    "bytes": 313084
+  },
+  {
+    "path": "assets/portraits/lumiere.jpg",
+    "bytes": 388945
+  },
+  {
+    "path": "assets/portraits/melantha.jpg",
+    "bytes": 324262
+  },
+  {
+    "path": "assets/portraits/norway-ww.jpg",
+    "bytes": 313404
+  },
+  {
+    "path": "assets/portraits/pramanix.jpg",
+    "bytes": 358146
+  },
+  {
+    "path": "assets/portraits/qingluo.jpg",
+    "bytes": 352266
+  },
+  {
+    "path": "assets/portraits/qingyue.jpg",
+    "bytes": 343548
+  },
+  {
+    "path": "assets/portraits/scandinavia-ww.jpg",
+    "bytes": 352922
+  },
+  {
+    "path": "assets/portraits/shuanghua.jpg",
+    "bytes": 318257
+  },
+  {
+    "path": "assets/portraits/shuying.jpg",
+    "bytes": 328052
+  },
+  {
+    "path": "assets/portraits/sibinie.jpg",
+    "bytes": 418134
+  },
+  {
+    "path": "assets/portraits/stachium.jpg",
+    "bytes": 344967
+  },
+  {
+    "path": "assets/portraits/suomi-ww.jpg",
+    "bytes": 329066
+  },
+  {
+    "path": "assets/portraits/sybilla.jpg",
+    "bytes": 362816
+  },
+  {
+    "path": "assets/portraits/tipiyoulet.png",
+    "bytes": 2964176
+  },
+  {
+    "path": "assets/portraits/tripoca.jpg",
+    "bytes": 368230
+  },
+  {
+    "path": "assets/portraits/xialuling.png",
+    "bytes": 2815182
+  },
+  {
+    "path": "assets/portraits/xiaoyezi.png",
+    "bytes": 2774566
+  },
+  {
+    "path": "assets/portraits/xingji.jpg",
+    "bytes": 359227
+  },
+  {
+    "path": "assets/portraits/xingyuan.jpg",
+    "bytes": 352557
+  },
+  {
+    "path": "assets/portraits/xolotl.png",
+    "bytes": 2833456
+  },
+  {
+    "path": "assets/portraits/xuanyin.jpg",
+    "bytes": 326794
+  },
+  {
+    "path": "assets/portraits/yana-grande.jpg",
+    "bytes": 381970
+  },
+  {
+    "path": "assets/portraits/yevna.png",
+    "bytes": 2731736
+  },
+  {
+    "path": "assets/portraits/yinxue.jpg",
+    "bytes": 361927
+  },
+  {
+    "path": "assets/world/aachen.webp",
+    "bytes": 588278
+  },
+  {
+    "path": "assets/world/atlas.webp",
+    "bytes": 1044336
+  },
+  {
+    "path": "assets/world/cave-atlas.webp",
+    "bytes": 806130
+  },
+  {
+    "path": "assets/world/chess-hall.webp",
+    "bytes": 697154
+  },
+  {
+    "path": "assets/world/coast.webp",
+    "bytes": 653710
+  },
+  {
+    "path": "assets/world/creation.webp",
+    "bytes": 586730
+  },
+  {
+    "path": "assets/world/dayun.webp",
+    "bytes": 671086
+  },
+  {
+    "path": "assets/world/demon-pass.webp",
+    "bytes": 691824
+  },
+  {
+    "path": "assets/world/demon.webp",
+    "bytes": 468476
+  },
+  {
+    "path": "assets/world/desert.webp",
+    "bytes": 614430
+  },
+  {
+    "path": "assets/world/dongye.webp",
+    "bytes": 647642
+  },
+  {
+    "path": "assets/world/empire.webp",
+    "bytes": 641488
+  },
+  {
+    "path": "assets/world/endgame.webp",
+    "bytes": 595304
+  },
+  {
+    "path": "assets/world/forest-city.webp",
+    "bytes": 689344
+  },
+  {
+    "path": "assets/world/fusang.webp",
+    "bytes": 552100
+  },
+  {
+    "path": "assets/world/golden-city.webp",
+    "bytes": 570428
+  },
+  {
+    "path": "assets/world/gonghua.webp",
+    "bytes": 657004
+  },
+  {
+    "path": "assets/world/hansa.webp",
+    "bytes": 606306
+  },
+  {
+    "path": "assets/world/harvest.webp",
+    "bytes": 656514
+  },
+  {
+    "path": "assets/world/heaven-city.webp",
+    "bytes": 616442
+  },
+  {
+    "path": "assets/world/holy-crown.webp",
+    "bytes": 573534
+  },
+  {
+    "path": "assets/world/human-yokai.webp",
+    "bytes": 574722
+  },
+  {
+    "path": "assets/world/ice.webp",
+    "bytes": 493278
+  },
+  {
+    "path": "assets/world/jier.webp",
+    "bytes": 473124
+  },
+  {
+    "path": "assets/world/lankai.webp",
+    "bytes": 583930
+  },
+  {
+    "path": "assets/world/liunian.webp",
+    "bytes": 631894
+  },
+  {
+    "path": "assets/world/lueying.webp",
+    "bytes": 557464
+  },
+  {
+    "path": "assets/world/menghua.webp",
+    "bytes": 623790
+  },
+  {
+    "path": "assets/world/pure-white.webp",
+    "bytes": 605608
+  },
+  {
+    "path": "assets/world/qili.webp",
+    "bytes": 630670
+  },
+  {
+    "path": "assets/world/red-harbor.webp",
+    "bytes": 587108
+  },
+  {
+    "path": "assets/world/rena.webp",
+    "bytes": 581952
+  },
+  {
+    "path": "assets/world/silver-well.webp",
+    "bytes": 629642
+  },
+  {
+    "path": "assets/world/south-gate.webp",
+    "bytes": 708238
+  },
+  {
+    "path": "assets/world/star-steps.webp",
+    "bytes": 653688
+  },
+  {
+    "path": "assets/world/sun-city.webp",
+    "bytes": 589582
+  },
+  {
+    "path": "assets/world/weize.webp",
+    "bytes": 520078
+  },
+  {
+    "path": "assets/world/white-memorial.webp",
+    "bytes": 580998
+  },
+  {
+    "path": "sources/丝碧涅.txt",
+    "bytes": 4533
+  },
+  {
+    "path": "sources/亡冥狩魂者·白毛.txt",
+    "bytes": 6159
+  },
+  {
+    "path": "sources/伊庇娅.txt",
+    "bytes": 10304
+  },
+  {
+    "path": "sources/伊梅拉.txt",
+    "bytes": 4861
+  },
+  {
+    "path": "sources/修洛特尔.txt",
+    "bytes": 6140
+  },
+  {
+    "path": "sources/初雪·恩雅.txt",
+    "bytes": 23490
+  },
+  {
+    "path": "sources/利维茨·于塔尔利耶·法尔格尔.txt",
+    "bytes": 6711
+  },
+  {
+    "path": "sources/吟雪.txt",
+    "bytes": 10812
+  },
+  {
+    "path": "sources/埃尔.txt",
+    "bytes": 2896
+  },
+  {
+    "path": "sources/小叶子.txt",
+    "bytes": 18632
+  },
+  {
+    "path": "sources/挪威ww.txt",
+    "bytes": 8071
+  },
+  {
+    "path": "sources/斯堪的纳维亚ww.txt",
+    "bytes": 7999
+  },
+  {
+    "path": "sources/斯塔奇乌姆.txt",
+    "bytes": 6551
+  },
+  {
+    "path": "sources/施比拉.txt",
+    "bytes": 16243
+  },
+  {
+    "path": "sources/星极.txt",
+    "bytes": 18258
+  },
+  {
+    "path": "sources/星源.txt",
+    "bytes": 19216
+  },
+  {
+    "path": "sources/桃乐丝.txt",
+    "bytes": 2844
+  },
+  {
+    "path": "sources/清月.txt",
+    "bytes": 14355
+  },
+  {
+    "path": "sources/特莉波卡.txt",
+    "bytes": 22110
+  },
+  {
+    "path": "sources/玄音.txt",
+    "bytes": 7063
+  },
+  {
+    "path": "sources/玫兰莎.txt",
+    "bytes": 11796
+  },
+  {
+    "path": "sources/琉歌.txt",
+    "bytes": 20298
+  },
+  {
+    "path": "sources/疏影.txt",
+    "bytes": 7359
+  },
+  {
+    "path": "sources/白泽清鸢.txt",
+    "bytes": 23769
+  },
+  {
+    "path": "sources/的场日和.txt",
+    "bytes": 11349
+  },
+  {
+    "path": "sources/碧悠桐.txt",
+    "bytes": 15422
+  },
+  {
+    "path": "sources/索米ww.txt",
+    "bytes": 7617
+  },
+  {
+    "path": "sources/缇匹尤蕾特.txt",
+    "bytes": 6140
+  },
+  {
+    "path": "sources/耶芙娜.txt",
+    "bytes": 9158
+  },
+  {
+    "path": "sources/艾莉西亚.txt",
+    "bytes": 4957
+  },
+  {
+    "path": "sources/莉娅.txt",
+    "bytes": 13137
+  },
+  {
+    "path": "sources/菲林.txt",
+    "bytes": 6095
+  },
+  {
+    "path": "sources/西瓦特尔.txt",
+    "bytes": 6140
+  },
+  {
+    "path": "sources/赤练.txt",
+    "bytes": 6876
+  },
+  {
+    "path": "sources/赫塔娜克.txt",
+    "bytes": 13828
+  },
+  {
+    "path": "sources/金智恩.txt",
+    "bytes": 11509
+  },
+  {
+    "path": "sources/金色威信·璐米欧尔.txt",
+    "bytes": 9739
+  },
+  {
+    "path": "sources/银色清纯·雅尔贞特.txt",
+    "bytes": 7904
+  },
+  {
+    "path": "sources/阿丽雅.txt",
+    "bytes": 5455
+  },
+  {
+    "path": "sources/雅娜·格兰德.txt",
+    "bytes": 10546
+  },
+  {
+    "path": "sources/霏璃.txt",
+    "bytes": 5573
+  },
+  {
+    "path": "sources/霜华.txt",
+    "bytes": 11080
+  },
+  {
+    "path": "sources/霞露零.txt",
+    "bytes": 13810
+  },
+  {
+    "path": "sources/青萝.txt",
+    "bytes": 6774
+  }
+]
